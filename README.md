@@ -1,9 +1,4 @@
-# kyzjnbk-template
-
-科研仔技能百科-模板
-
-你可以从此模板开设新的主题，包括但不限于具体理论方向、摸鱼指南。
-
+# Computer Graphics
 
 ## 如何贡献？(How to contribute?)
 
@@ -22,11 +17,11 @@
 
 mkdocs.yml 文件定义了站点信息和导航栏结构(nav)。主题一般不需要改动。
 
-下载此库至本地，并进入目录(**改成你自己的项目名,并移除此提示**):
+下载此库至本地，并进入目录:
 
 ```shell
-git clone https://github.com/kyzjnbk/kyzjnbk-template
-cd kyzjnbk-template
+git clone https://github.com/kyzjnbk/kyzjnbk-cg
+cd kyzjnbk-cg
 ```
 
 环境配置(需要python 3.x)：

@@ -1,5 +1,5 @@
-site_name: kyzjnbk-template
-repo_url: https://github.com/kyzjnbk/kyzjnbk-template
+site_name: Computer Graphics
+repo_url: https://github.com/kyzjnbk/kyzjnbk-cg
 repo_name: GitHub
 copyright: Copyright &copy; kyzjbnk
 extra:
@@ -8,7 +8,14 @@ extra:
 #-----------------Navigation----------------------------------------
 nav:
     - Home: index.md
-
+    - Math: 
+        - math/index.md
+    - Rendering:
+        - render/index.md
+        - Ray Tracing: render/ray_tracing.md
+    - API:
+        - api/index.md
+        - OpenGL: api/opengl/index.md
 
 #-----------------THEME---------------------------------------------
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
